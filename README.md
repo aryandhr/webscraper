@@ -1,16 +1,10 @@
 # webscraper
 
+Bot to fake attendance on iClicker
+
 ## Motivation
 
-The inspiration for this project stems from a practical need to address a specific challenge encountered during the spring semester of my junior year in college. In a course where attendance was a significant component of the final grade, students were required to bring their laptops to class and log into a website that tracked their presence through location data. 
-
-Additionally, multiple-choice questions were presented at various intervals during the lecture through this website, and a minimum of 75% questions asked that had to be answered to obtain attendance points. Luckily, the answers did not need to be correct; mere participation demonstrated one's presence.
-
-Unfortunately, my laptop's battery health was not optimal, and it unexpectedly shut down during my first lecture, leaving me unable to participate in the attendance tracking process. Attempting to switch to my phone as an alternative proved futile due to the website's non-responsive nature, resulting in a loss of attendance points for that particular day.
-
-This sparked a realization that there had to be a more reliable and efficient approach to fulfill the attendance requirement while still attending the lectures.
-
-Thus, through the utilization of the Selenium library, the script allowed for custom geolocation data to be passed to the website and automated the processes of logging into the website, parse the html elements to recognize answer tags when they appeared, and pick a random multiple-choice option to emulate human-like guessing, providing a fully automated solution.
+I did not want to attend CEM161
 
 ## Requirements
 
